@@ -66187,7 +66187,7 @@ o===$&&A.b()
 o=A.dR(A.a06(0,B.my,o,new A.bm(0.5,1,B.w),"Grapher Demo","https://bluebar1.github.io/scroll_editor/"),1)
 n=l.r
 n===$&&A.b()
-return A.akH(A.bk(m,A.bZ(A.a([r,q,p,o,A.dR(A.a06(0,B.my,n,new A.bm(0.5,1,B.w),"Splash Page Animation","https://bluebar1.github.io"),1)],t.p),B.v,B.C,B.n),B.j,m,new A.a4(0,300,0,1/0),new A.bH(s,m,m,m,m,m,B.D),m,m,m,m,m,m,m),j,k)}}
+return A.akH(A.bk(m,A.bZ(A.a([r,q,p,o,A.dR(A.a06(0,B.my,n,new A.bm(0.5,1,B.w),"Splash Page Animation","https://bluebar1.github.io/splash_demo/"),1)],t.p),B.v,B.C,B.n),B.j,m,new A.a4(0,300,0,1/0),new A.bH(s,m,m,m,m,m,B.D),m,m,m,m,m,m,m),j,k)}}
 A.o0.prototype={
 E(a){var s=A.hJ(new A.j(0,1),new A.j(0,0),new A.bm(0,1,B.w),A.aP(a,!1,t.m),t.o),r=this.e
 if(r==null){r=t.N
